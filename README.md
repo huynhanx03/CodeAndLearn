@@ -29,4 +29,6 @@ Xin chào! Tôi là **Huỳnh Mai Cao Nhân**, sinh viên ngành Kỹ sư Phần
 - Tham gia các dự án hoặc đóng góp mã nguồn mở để nâng cao kỹ năng thực tế.
 - Ngoại ngữ, đặc biệt là tiếng Anh, rất quan trọng trong ngành công nghệ thông tin.
 
+[Tài liệu của tôi](https://stream-zinnia-e74.notion.site/IT-1544bb067d91809e9805f9c59fae42c7)
+
 Chúc bạn thành công trên hành trình học tập và phát triển bản thân! 🚀
